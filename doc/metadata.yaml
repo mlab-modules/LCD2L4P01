@@ -1,4 +1,5 @@
-description: null
+description: ' Module with two-line LCD display with Hitachi controller and with 4
+  push buttons. It can be used as human interface for small projects with microcontrollers.'
 github_branch: LCD2L4P01A
 github_repo: LCD2L4P01
 github_url: https://github.com/mlab-modules/LCD2L4P01
